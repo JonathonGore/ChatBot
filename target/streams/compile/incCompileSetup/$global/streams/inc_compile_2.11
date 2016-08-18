@@ -1,0 +1,704 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+42 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Brain.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatTypes$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatTypes.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatbotDAO$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatbotDAO.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/DatabaseRPC$$anonfun$myselfQuery$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/DatabaseRPC$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/DatabaseRPC.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$2.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$apply$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$apply$2.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$2.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Postman.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/QueryUtil$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/QueryUtil.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$getQuestionAnswer$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$splitUserResponse$1$$anonfun$apply$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$splitUserResponse$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$UserResponse$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$UserResponse.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$chatBotResponse$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$chatBotResponse.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$myselfInfo$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$myselfInfo.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Response.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$$anonfun$checkIfContained$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$$anonfun$containsSubstring$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$$anonfun$filterPunctuation$1.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/TokenMachine.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/WordUtil$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/WordUtil.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/main$.class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> /home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/main.class
+binary dependencies:
+25 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> /home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+21 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> /home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Brain
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> ChatTypes
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> ChatTypes$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> ChatbotDAO
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> ChatbotDAO$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> DatabaseRPC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> DatabaseRPC$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> DatabaseRPC$$anonfun$myselfQuery$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns$$anonfun$getNounsAfter$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns$$anonfun$getNounsAfter$1$$anonfun$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns$$anonfun$getNounsAfter$1$$anonfun$2
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns$$anonfun$getNounsAfter$1$$anonfun$apply$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns$$anonfun$getNounsAfter$1$$anonfun$apply$2
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns$$anonfun$getNounsAfter$2
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Postman
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> QueryUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> QueryUtil$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$$anonfun$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$$anonfun$getQuestionAnswer$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$$anonfun$splitUserResponse$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$$anonfun$splitUserResponse$1$$anonfun$apply$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$UserResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$UserResponse$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$chatBotResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$chatBotResponse$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$myselfInfo
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions$myselfInfo$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> Response
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> StringUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> StringUtil$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> StringUtil$$anonfun$checkIfContained$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> StringUtil$$anonfun$containsSubstring$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> StringUtil$$anonfun$filterPunctuation$1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java -> TokenMachine
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> WordUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> WordUtil$
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> main
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> main$
+used names:
+367 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> +
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> ==
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Array
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Brain
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> ChatTypes
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> DatabaseRPC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> GENERIC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> GET_NAME
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Int
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> InternalError
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> None
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Nouns
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Questions
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> Response
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> StringContext
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> StringUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> TokenMachine
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> WordUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> aan
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> ans
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> ansRsp
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> answer
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> asInstanceOf
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> beginsWithVowel
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> buildAnswer
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> buildMessage
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> buildResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> chatType
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> db
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> filterPunctuation
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> filteredMsg
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> getMessage
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> getPersonName
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> getQuestionAnswer
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> hasMetByName
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> isInstanceOf
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> java
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> lang
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> message
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> msg
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> name
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> ne
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> nextChatType
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> nextChatType_=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> question
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> r
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> response
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> rsp
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> splitUserResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> tokenize
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> tokens
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> words
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> x
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> ChatTypes
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> GENERIC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> GET_FAVOURITE
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> GET_NAME
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> QUESTION_ABOUT_ME
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> SET_INFO
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> +
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> ChatbotDAO
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> Class
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> Connection
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> DriverManager
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> ResultSet
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> StringContext
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> Throwable
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> Unit
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> connection
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> connection_=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> createConnection
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> createStatement
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> database
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> driver
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> e
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> executeQuery
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> forName
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> getConnection
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> java
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> lang
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> package
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> password
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> printStackTrace
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> println
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> q
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> sql
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> statement
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> url
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> username
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> Boolean
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> ChatbotDAO
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> DatabaseRPC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> StringContext
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> Try
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> apply
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> column
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> db
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> getString
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> name
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> next
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> query
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> r
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> util
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> +
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> :::
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> ==
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> A1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Array
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> ArrayIndexOutOfBoundsException
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> B1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> ClassTag
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Function1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Int
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> List
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Nouns
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> _1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> _2
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> a
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> apply
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> asInstanceOf
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> b
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> canBuildFrom
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> collect
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> count
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> equalsIgnoreCase
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> filter
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> foreach
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> getNounAtIndex
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> getNounsAfter
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> getPersonName
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> head
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> i
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> immutable
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> indexWhere
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> indexes
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> intArrayOps
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> length
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> materializeClassTag
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> n
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> ne
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> p
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> package
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> pretenses
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> refArrayOps
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> size
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> unary_!
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> unchecked
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> words
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> zipWithIndex
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> ==
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Brain
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> ChatTypes
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> GET_NAME
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Int
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Postman
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Response
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Scanner
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> System
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> Unit
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> brain
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> chat
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> chatType
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> createResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> getMessage
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> in
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> java
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> lang
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> message
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> newMessage
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> nextChatType
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> nextLine
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> println
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> resp
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> sendMessage
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> userMessage
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> util
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> QueryUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> StringUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> filterPunctuation
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> toLowerCase
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> &&
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> +
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> ==
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> AbstractFunction2
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Array
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> ChatTypes
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> DatabaseRPC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Failure
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> GENERIC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> GET_FAVOURITE
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Int
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> List
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> None
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Nouns
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Option
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Product
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> QueryUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Questions
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> SET_INFO
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> ScalaRunTime
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Serializable
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Statics
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> StringContext
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> StringUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Success
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> Try
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> UserResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> _1
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> _2
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> _hashCode
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> _toString
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> afterWhat
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> ans
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> answer
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> anyHash
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> apply
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> asInstanceOf
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> chatBotResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> checkIfContained
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> contains
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> eq
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> finalizeHash
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> first
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> foreach
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> getNounAtIndex
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> getQuestionAnswer
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> i
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> immutable
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> indexWhere
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> isInstanceOf
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> keyword
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> mix
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> myselfInfo
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> myselfQuery
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> myselfQuestion
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> ne
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> nextChatType
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> noun
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> p
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> prepareForQuery
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> preppedNoun
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> q
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> qWord
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> question
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> questionPretenses
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> refArrayOps
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> response
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> route
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> runtime
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> splitAt
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> splitUserResponse
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> toString
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> typedProductIterator
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> util
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> value
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> w
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> whatQuestion
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> words
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> x
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> ||
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> ChatTypes
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> GENERIC
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> Int
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> Response
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> getMessage
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> message
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> msg
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> nextChatType
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> +
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> >=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> Array
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> Boolean
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> List
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> StringUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> augmentString
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> contains
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> containsSubstring
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> count
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> filter
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> foreach
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> length
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> package
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> punctuation
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> question
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> refArrayOps
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> s
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> subString
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> unary_!
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> w
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> words
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> AnyRef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> Boolean
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> List
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> Predef
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> String
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> WordUtil
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> apply
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> c
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> contains
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> immutable
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> scala
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> substring
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> toLowerCase
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> vowels
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> word
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> <init>
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> App
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> Postman
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> main
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> scala
+product stamps:
+42 items
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Brain.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatTypes$.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatTypes.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatbotDAO$.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/ChatbotDAO.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/DatabaseRPC$$anonfun$myselfQuery$1.class -> lastModified(1471489398000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/DatabaseRPC$.class -> lastModified(1471489398000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/DatabaseRPC.class -> lastModified(1471489398000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$1.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$2.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$apply$1.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1$$anonfun$apply$2.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$1.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$$anonfun$getNounsAfter$2.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns$.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Nouns.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Postman.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/QueryUtil$.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/QueryUtil.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$1.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$getQuestionAnswer$1.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$splitUserResponse$1$$anonfun$apply$1.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$$anonfun$splitUserResponse$1.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$UserResponse$.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$UserResponse.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$chatBotResponse$.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$chatBotResponse.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$myselfInfo$.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions$myselfInfo.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Questions.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/Response.class -> lastModified(1471491876000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$$anonfun$checkIfContained$1.class -> lastModified(1471488025000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$$anonfun$containsSubstring$1.class -> lastModified(1471488025000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$$anonfun$filterPunctuation$1.class -> lastModified(1471488025000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil$.class -> lastModified(1471488025000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/StringUtil.class -> lastModified(1471488025000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/TokenMachine.class -> lastModified(1470100453000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/WordUtil$.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/WordUtil.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/main$.class -> lastModified(1470100450000)
+/home/jack/Desktop/Projects/ChatBot/target/scala-2.11/classes/main.class -> lastModified(1470100450000)
+source stamps:
+13 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> hash(c482e8bb550958f40d5763ca66893b263fca15e1)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> hash(e89b66789c5949b57307e7fb2d32f7bcd312b4c7)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> hash(0830fba6e69e520a8fe56adad26ed7a302ee0ff5)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> hash(8929a989157b2474a0b16e159e829538fa14dc68)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> hash(f9559441cd30308d1eb710441cac0ea3aea513be)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> hash(d36f51f2a9f94f0a90fb9ee05314200c3eb444c7)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> hash(d0330f740b37b2236e2311653dd09b4b4e94047e)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> hash(5236ebc02a2ad1dc2c172faf872d2275816b6b05)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> hash(6a0e7145f556c0e1ca31e8efbfa39ed77640db7b)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> hash(73814d1657b693b819f5254e49c189c33516e8ac)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java -> hash(b4c4ddc5cf56ee313b9b21c216013a535dc9d9a8)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> hash(ecbccadf328e881c4a37183a8b74a089892b0d51)
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> hash(b83f974db5ebfcd676f24c84a717c0310bd3df45)
+binary stamps:
+2 items
+/home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1469074878000)
+class names:
+2 items
+/home/jack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Int
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+13 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCm03izAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIDtRaF0AAZub3RpZnlzcQB+AAyvsQwMdAAEd2FpdHNxAH4ADFYCTaJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMWwOz6HQABUJyYWluc3EAfgAMWJp8N3QADWJ1aWxkUmVzcG9uc2VzcQB+AAynPtzydAAGZXF1YWxzc3EAfgAMYQz+b3QADGFzSW5zdGFuY2VPZnNxAH4ADNup+Ot0AAxzeW5jaHJvbml6ZWRzcQB+AAw57yNvdAACZGJzcQB+AAxtk6FAdAANJGlzSW5zdGFuY2VPZnNxAH4ADMx3AVB0AAlub3RpZnlBbGxzcQB+AAz+iRk+dAAMaXNJbnN0YW5jZU9mc3EAfgAMh+CTRnQABjxpbml0PnNxAH4ADLVj9Yx0AAI9PXNxAH4ADC3s/nd0AAVjbG9uZXNxAH4ADPL0ms10AAh0b1N0cmluZ3NxAH4ADKN31mB0AAIhPXNxAH4ADFbyvtV0AAhnZXRDbGFzc3NxAH4ADB867UR0AAxidWlsZE1lc3NhZ2VzcQB+AAwTQ22mdAACbmVzcQB+AAxdNwqedAACZXFzcQB+AAyP999gdAACIyNzcQB+AAx3y2w5dAAOY3JlYXRlUmVzcG9uc2VzcQB+AAzxF5iMdAAIZmluYWxpemVzcQB+AAzGzD/UdAALYnVpbGRBbnN3ZXJzcQB+AAxGXr70dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGN4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGIAcHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGtzcQB+AGIAcHNxAH4AZ3VxAH4ARgAAAABzcQB+AGIAcHNxAH4AZ3VxAH4ARgAAAABzcQB+AGIAcHNxAH4AZ3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AanQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ah3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiHNxAH4Ae3QAA0FueXNxAH4Af3NxAH4AgnVxAH4AhQAAAAJzcQB+AId0AAVzY2FsYXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVabwAMNdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTEgui7VQlY9A1XY8pmiTsmP8oV4Q==
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCfT1sfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH947H50AAZub3RpZnlzcQB+AAxtgwHwdAAJQ2hhdFR5cGVzc3EAfgAMpcoWh3QABHdhaXRzcQB+AAzhE+JadAANJGFzSW5zdGFuY2VPZnNxAH4ADP/Emt10ABFRVUVTVElPTl9BQk9VVF9NRXNxAH4ADNbnFjN0AAZlcXVhbHNzcQB+AAwltO+xdAAMYXNJbnN0YW5jZU9mc3EAfgAMdelBoXQADHN5bmNocm9uaXplZHNxAH4ADJjmYQh0AA0kaXNJbnN0YW5jZU9mc3EAfgAM9n9Jv3QADUdFVF9GQVZPVVJJVEVzcQB+AAw2805QdAAIR0VUX05BTUVzcQB+AAxfHhQXdAAJbm90aWZ5QWxsc3EAfgAMKy19j3QADGlzSW5zdGFuY2VPZnNxAH4ADGjKc8x0AAI9PXNxAH4ADDjNq0V0AAVjbG9uZXNxAH4ADFjVdaZ0AAh0b1N0cmluZ3NxAH4ADLV5WkN0AAIhPXNxAH4ADCA0oPp0AAhnZXRDbGFzc3NxAH4ADLHtNmR0AAdHRU5FUklDc3EAfgAMeFH2f3QAAm5lc3EAfgAMk6cobnQAAmVxc3EAfgAMlN6GtXQAAiMjc3EAfgAMjbSHcHQACGZpbmFsaXplc3EAfgAMcFPgI3QACGhhc2hDb2Rlc3EAfgAMRxvStnQACFNFVF9JTkZPc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AYXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYABwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaXNxAH4AYABwc3EAfgBldXEAfgBEAAAAAHNxAH4AYABwc3EAfgBldXEAfgBEAAAAAHNxAH4AYABwc3EAfgBldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCFdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCGc3EAfgB5dAADQW55c3EAfgB9c3EAfgCAdXEAfgCDAAAAAnNxAH4AhXQABXNjYWxhcQB+AIx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpvAAw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L2hvbWUvamFjay9EZXNrdG9wL1Byb2plY3RzL0NoYXRCb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOibZnicWUm1cwfn+y0y97zTErTH
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDf3KBAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cO/gTL10AAZub3RpZnlzcQB+AAw8pV8ddAAIZGF0YWJhc2VzcQB+AAxlDW3udAAEd2FpdHNxAH4ADERO6FR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMq1OHk3QAA3VybHNxAH4ADMItTyh0AAZlcXVhbHNzcQB+AAySCWxGdAAIdXNlcm5hbWVzcQB+AAwV5z1tdAAMYXNJbnN0YW5jZU9mc3EAfgAMRQbNXnQADHN5bmNocm9uaXplZHNxAH4ADGr9XUN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMLKFAynQABXF1ZXJ5c3EAfgAM/lfUlnQACW5vdGlmeUFsbHNxAH4ADHvibOh0AAxpc0luc3RhbmNlT2ZzcQB+AAxQP8ZEdAAGZHJpdmVyc3EAfgAMwV1OMXQAAj09c3EAfgAMjhiak3QABWNsb25lc3EAfgAMQKrWvXQACHRvU3RyaW5nc3EAfgAM/CM7bXQAAiE9c3EAfgAMFGmcdHQACmNvbm5lY3Rpb25zcQB+AAytUHYWdAAIZ2V0Q2xhc3NzcQB+AAyAR6xMdAAQY3JlYXRlQ29ubmVjdGlvbnNxAH4ADLp7h2t0AAJuZXNxAH4ADE3aEox0AAJlcXNxAH4ADAasb0d0AAIjI3NxAH4ADP5t0kN0AAhmaW5hbGl6ZXNxAH4ADCpcVMx0AAhoYXNoQ29kZXNxAH4ADFMW2Q50AAhwYXNzd29yZHNxAH4ADCQbkb90AApDaGF0Ym90REFPc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBFdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBmAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AG1zcQB+AGYBdXEAfgBKAAAAAHBzcQB+AGYBdXEAfgBKAAAAAHBzcQB+AGYBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBsdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCFdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCGc3EAfgB5dAADQW55c3EAfgB9c3EAfgCAdXEAfgCDAAAAAnNxAH4AhXQABXNjYWxhcQB+AIxwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWSNCYMXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCDD7puaeUgqP5Wra0m7XowLuD/U=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCGxifeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGBNVpp0AAZub3RpZnlzcQB+AAwlG3//dAAEd2FpdHNxAH4ADCP/ltx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMCp21vHQABmVxdWFsc3NxAH4ADLy4qfd0AAtteXNlbGZRdWVyeXNxAH4ADPO+HSN0AAxhc0luc3RhbmNlT2ZzcQB+AAwVHyPBdAAMc3luY2hyb25pemVkc3EAfgAMW596EHQAAmRic3EAfgAMVAL8JXQADSRpc0luc3RhbmNlT2ZzcQB+AAwhN5XCdAAJbm90aWZ5QWxsc3EAfgAMQXYpWXQADGhhc01ldEJ5TmFtZXNxAH4ADFoL2ZR0AAxpc0luc3RhbmNlT2ZzcQB+AAwZ4hC8dAACPT1zcQB+AAx2taJedAAFY2xvbmVzcQB+AAwldrLPdAAIdG9TdHJpbmdzcQB+AAzgtlPvdAACIT1zcQB+AAyd9CLxdAAIZ2V0Q2xhc3NzcQB+AAxDSjyHdAALRGF0YWJhc2VSUENzcQB+AAyE3A75dAACbmVzcQB+AAylp0ZPdAACZXFzcQB+AAy3VuGydAACIyNzcQB+AAwWRe9adAAIZmluYWxpemVzcQB+AAzADWsNdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBdeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcAHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBlc3EAfgBcAHBzcQB+AGF1cQB+AEAAAAAAc3EAfgBcAHBzcQB+AGF1cQB+AEAAAAAAc3EAfgBcAHBzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIJzcQB+AHV0AANBbnlzcQB+AHlzcQB+AHx1cQB+AH8AAAACc3EAfgCBdAAFc2NhbGFxAH4AiHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWm5o2enVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiSmpiRV7JHSgsW4VnoKVOPoU3Gg=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCuvAE6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJjkBO90AA1nZXROb3Vuc0FmdGVyc3EAfgAMDuamjHQABm5vdGlmeXNxAH4ADBOtgGd0AAR3YWl0c3EAfgAMnHHUwHQADSRhc0luc3RhbmNlT2ZzcQB+AAymwvdpdAAGZXF1YWxzc3EAfgAMai/i8nQADGFzSW5zdGFuY2VPZnNxAH4ADFzZM0p0AAxzeW5jaHJvbml6ZWRzcQB+AAwJsGmYdAANJGlzSW5zdGFuY2VPZnNxAH4ADLws7tZ0AA5nZXROb3VuQXRJbmRleHNxAH4ADCRi18Z0AAlub3RpZnlBbGxzcQB+AAzEwgsfdAAMaXNJbnN0YW5jZU9mc3EAfgAM9biusHQABU5vdW5zc3EAfgAMo/CNb3QAAj09c3EAfgAM41G+kHQABWNsb25lc3EAfgAMpwWfp3QACHRvU3RyaW5nc3EAfgAM42ZRZnQAAiE9c3EAfgAMoxOQXnQACGdldENsYXNzc3EAfgAMvhjy+3QAAm5lc3EAfgAMiasGeHQAAmVxc3EAfgAMqDMmJXQAAiMjc3EAfgAMXQny6XQACGZpbmFsaXplc3EAfgAMsX9RgnQACGhhc2hDb2Rlc3EAfgAMLDgQpXQADWdldFBlcnNvbk5hbWVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBdeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcAHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBlc3EAfgBcAHBzcQB+AGF1cQB+AEAAAAAAc3EAfgBcAHBzcQB+AGF1cQB+AEAAAAAAc3EAfgBcAHBzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIJzcQB+AHV0AANBbnlzcQB+AHlzcQB+AHx1cQB+AH8AAAACc3EAfgCBdAAFc2NhbGFxAH4AiHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWSNCYMXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU+VWUQc0wMI0etxBEHKwOo66lE74=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAXd9r4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKQ3tSp0AAZub3RpZnlzcQB+AAwHxo14dAABc3NxAH4ADL57TTN0AAR3YWl0c3EAfgAMmDzrVHQADSRhc0luc3RhbmNlT2ZzcQB+AAz5SFdAdAALc2VuZE1lc3NhZ2VzcQB+AAwUrhX6dAAGZXF1YWxzc3EAfgAMwHDXSXQAB1Bvc3RtYW5zcQB+AAymoK+xdAAMYXNJbnN0YW5jZU9mc3EAfgAMsHckSXQADHN5bmNocm9uaXplZHNxAH4ADHY078F0AA0kaXNJbnN0YW5jZU9mc3EAfgAMFVNm7XQACW5vdGlmeUFsbHNxAH4ADGnBCtJ0AAxpc0luc3RhbmNlT2ZzcQB+AAyCM6IPdAAEY2hhdHNxAH4ADHJyjmZ0AAY8aW5pdD5zcQB+AAw+m+1DdAACPT1zcQB+AAx44NTIdAAFY2xvbmVzcQB+AAxrYQMwdAAFYnJhaW5zcQB+AAxaO3hZdAAIdG9TdHJpbmdzcQB+AAxp8FSYdAACIT1zcQB+AAzK6EQldAAIZ2V0Q2xhc3NzcQB+AAzvO5w0dAACbmVzcQB+AAxTjGawdAAKbmV3TWVzc2FnZXNxAH4ADNkSzDV0AAJlcXNxAH4ADIP3uot0AAIjI3NxAH4ADEWgzgJ0AAhmaW5hbGl6ZXNxAH4ADOCfAr10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBiAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGlzcQB+AGIBdXEAfgBGAAAAAHBzcQB+AGIBdXEAfgBGAAAAAHBzcQB+AGIBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCBdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCCc3EAfgB1dAADQW55c3EAfgB5c3EAfgB8dXEAfgB/AAAAAnNxAH4AgXQABXNjYWxhcQB+AIhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWm8ADDXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU029R8qn5TwqQ+57gUxQgDD60RMc=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA9gKpuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEyQxQZ0AAZub3RpZnlzcQB+AAyOPiOudAAEd2FpdHNxAH4ADH6EBn50AA0kYXNJbnN0YW5jZU9mc3EAfgAMEymgW3QABmVxdWFsc3NxAH4ADNJyKZx0AAxhc0luc3RhbmNlT2ZzcQB+AAyF1Hs3dAAMc3luY2hyb25pemVkc3EAfgAMk5HJuXQADSRpc0luc3RhbmNlT2ZzcQB+AAyswmwfdAAJbm90aWZ5QWxsc3EAfgAMWffaSnQADGlzSW5zdGFuY2VPZnNxAH4ADO1aykJ0AAlRdWVyeVV0aWxzcQB+AAxbZoBCdAACPT1zcQB+AAxCbBmrdAAFY2xvbmVzcQB+AAy8NC+OdAAIdG9TdHJpbmdzcQB+AAw5esXzdAACIT1zcQB+AAyvPV72dAAIZ2V0Q2xhc3NzcQB+AAw36fjydAAPcHJlcGFyZUZvclF1ZXJ5c3EAfgAMRfsF83QAAm5lc3EAfgAM5ajFB3QAAmVxc3EAfgAMruhsnXQAAiMjc3EAfgAMjpE5rnQACGZpbmFsaXplc3EAfgAMd9uUlHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWABwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYXNxAH4AWABwc3EAfgBddXEAfgA8AAAAAHNxAH4AWABwc3EAfgBddXEAfgA8AAAAAHNxAH4AWABwc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB9dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+c3EAfgBxdAADQW55c3EAfgB1c3EAfgB4dXEAfgB7AAAAAnNxAH4AfXQABXNjYWxhcQB+AIR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjQmDF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L2hvbWUvamFjay9EZXNrdG9wL1Byb2plY3RzL0NoYXRCb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNAzD3QLN7IjbiMRZT3Qm0tOlAR+
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD4mw4bAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNBqwTd0AApteXNlbGZJbmZvc3EAfgAMKNZ08HQABm5vdGlmeXNxAH4ADBLs3QR0AAd1bmFwcGx5c3EAfgAMlGass3QAEXNwbGl0VXNlclJlc3BvbnNlc3EAfgAM1oA87HQAB2N1cnJpZWRzcQB+AAzH0v3+dAAIcXVlc3Rpb25zcQB+AAx6yuGpdAAEd2FpdHNxAH4ADItJq2Z0AAlRdWVzdGlvbnNzcQB+AAyE4M4TdAAMd2hhdFF1ZXN0aW9uc3EAfgAMPSmeSHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM4k4PrXQADSRhc0luc3RhbmNlT2ZzcQB+AAxbcu8RdAARcXVlc3Rpb25QcmV0ZW5zZXNzcQB+AAzVYobpdAAMcHJvZHVjdEFyaXR5c3EAfgAM70Sx93QABmVxdWFsc3NxAH4ADA3QhC10AA9jaGF0Qm90UmVzcG9uc2VzcQB+AAxMfQaudAAMYXNJbnN0YW5jZU9mc3EAfgAM7T2gwnQADHN5bmNocm9uaXplZHNxAH4ADIhgJP10AA5teXNlbGZRdWVzdGlvbnNxAH4ADANNqbh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMNMmG9HQABnR1cGxlZHNxAH4ADB9+Rn90AAxVc2VyUmVzcG9uc2VzcQB+AAwJnv0jdAAIY2FuRXF1YWxzcQB+AAyi9oC1dAANcHJvZHVjdFByZWZpeHNxAH4ADIyMSPJ0AAlub3RpZnlBbGxzcQB+AAw5usxBdAALcmVhZFJlc29sdmVzcQB+AAypI6nJdAAMaXNJbnN0YW5jZU9mc3EAfgAMI9QfYHQABG5vdW5zcQB+AAwtcpvudAAIcmVzcG9uc2VzcQB+AAyrM8U6dAAGPGluaXQ+c3EAfgAM85e/R3QABWFwcGx5c3EAfgAMXIpSBHQAAj09c3EAfgAM1wgqTnQABWNsb25lc3EAfgAM6j8MQ3QACWFmdGVyV2hhdHNxAH4ADMDupBZ0ABFnZXRRdWVzdGlvbkFuc3dlcnNxAH4ADHQeoeR0AARjb3B5c3EAfgAMz/LdHXQABmFuc3dlcnNxAH4ADJCU1rh0AAh0b1N0cmluZ3NxAH4ADEI8b110AAIhPXNxAH4ADMg6m+10AAVyb3V0ZXNxAH4ADDw8hMZ0AAhnZXRDbGFzc3NxAH4ADLhDOu50AA5jb3B5JGRlZmF1bHQkMXNxAH4ADFpbTUV0AAxuZXh0Q2hhdFR5cGVzcQB+AAwwbecDdAACbmVzcQB+AAwFObKpdAACZXFzcQB+AAwLgNrAdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMltvutXQAAiMjc3EAfgAMMSUloXQACGZpbmFsaXplc3EAfgAME7kncHQADnByb2R1Y3RFbGVtZW50c3EAfgAMbpqE4nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AeXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAddXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AkXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AkABwc3EAfgCVc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHlMAAlpbmhlcml0ZWRxAH4AeUwAB3BhcmVudHNxAH4AeXhxAH4AmXNxAH4AkABwc3EAfgCVdXEAfgB0AAAAAHNxAH4AkABwc3EAfgCVdXEAfgB0AAAAAHNxAH4AkABwc3EAfgCVdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCYdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCYc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgC1dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC2c3EAfgCpdAADQW55c3EAfgCtc3EAfgCwdXEAfgCzAAAAAnNxAH4AtXQABXNjYWxhcQB+ALx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpvAAw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L2hvbWUvamFjay9EZXNrdG9wL1Byb2plY3RzL0NoYXRCb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFI268AqKtHcLBcvr4ctInWBa2sF
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCp2EdfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAUeE590AAZub3RpZnlzcQB+AAxZPkfSdAAEd2FpdHNxAH4ADAIURn50AA0kYXNJbnN0YW5jZU9mc3EAfgAMOd7pg3QABmVxdWFsc3NxAH4ADFJd9iF0AAxhc0luc3RhbmNlT2ZzcQB+AAyf2+q7dAAMc3luY2hyb25pemVkc3EAfgAMrzuU3HQADSRpc0luc3RhbmNlT2ZzcQB+AAxUFrhQdAAJbm90aWZ5QWxsc3EAfgAMGRvIynQADGlzSW5zdGFuY2VPZnNxAH4ADNS4Rc50AAY8aW5pdD5zcQB+AAz74ZgrdAAKZ2V0TWVzc2FnZXNxAH4ADDP1PDd0AAI9PXNxAH4ADEzLFJh0AAVjbG9uZXNxAH4ADDqR9+Z0AAhSZXNwb25zZXNxAH4ADG971ZR0AAdtZXNzYWdlc3EAfgAM5xxhvnQACHRvU3RyaW5nc3EAfgAM3QxfEnQAAiE9c3EAfgAM68E7aHQACGdldENsYXNzc3EAfgAMR54c3HQADG5leHRDaGF0VHlwZXNxAH4ADOF0fn50AAJuZXNxAH4ADGhPIth0AAJlcXNxAH4ADFTldZV0AAIjI3NxAH4ADMi7zUN0AAhmaW5hbGl6ZXNxAH4ADDXkPdV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AX3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXgBwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZ3NxAH4AXgBwc3EAfgBjdXEAfgBCAAAAAHNxAH4AXgBwc3EAfgBjdXEAfgBCAAAAAHNxAH4AXgBwc3EAfgBjdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBmdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCDdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCEc3EAfgB3dAADQW55c3EAfgB7c3EAfgB+dXEAfgCBAAAAAnNxAH4Ag3QABXNjYWxhcQB+AIp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpvAAw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L2hvbWUvamFjay9EZXNrdG9wL1Byb2plY3RzL0NoYXRCb3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGoOcUX1VsDhyjHo77+jntd2QNt7
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBhnx4EAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGs7Mol0AAZub3RpZnlzcQB+AAzqWZjhdAAEd2FpdHNxAH4ADAFAADR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMFnOOlnQABmVxdWFsc3NxAH4ADAH87rh0AAxhc0luc3RhbmNlT2ZzcQB+AAzlJuHGdAAMc3luY2hyb25pemVkc3EAfgAMM6tikXQADSRpc0luc3RhbmNlT2ZzcQB+AAzSyRYOdAAKU3RyaW5nVXRpbHNxAH4ADAsj0+d0ABBjaGVja0lmQ29udGFpbmVkc3EAfgAMyqyw43QAEWNvbnRhaW5zU3Vic3RyaW5nc3EAfgAMGuMX3nQACW5vdGlmeUFsbHNxAH4ADLKNeEJ0AAxpc0luc3RhbmNlT2ZzcQB+AAyFDGDfdAARZmlsdGVyUHVuY3R1YXRpb25zcQB+AAznRu6ndAACPT1zcQB+AAzYF5nDdAAFY2xvbmVzcQB+AAw5Pr0/dAAIdG9TdHJpbmdzcQB+AAyQYzdcdAACIT1zcQB+AAzt92JJdAAIZ2V0Q2xhc3NzcQB+AAwW5nqedAACbmVzcQB+AAxYQANpdAACZXFzcQB+AAztGJT2dAACIyNzcQB+AAzs7dMYdAAIZmluYWxpemVzcQB+AAyCUVOMdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AB11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBdeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcAHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBlc3EAfgBcAHBzcQB+AGF1cQB+AEAAAAAAc3EAfgBcAHBzcQB+AGF1cQB+AEAAAAAAc3EAfgBcAHBzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIJzcQB+AHV0AANBbnlzcQB+AHlzcQB+AHx1cQB+AH8AAAACc3EAfgCBdAAFc2NhbGFxAH4AiHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWm4UCb3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUc4FNFle2k7gZ9SVOScGJwzUW6Kw=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBwfm1RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAE3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN/8h/h0AAZub3RpZnlzcQB+AAxcUo1jdAAEd2FpdHNxAH4ADBhcX2R0AA5maWxsVG9rZW5BcnJheXNxAH4ADEsN85Z0AA9jcmVhdGVDaGFyQXJyYXlzcQB+AAxVwTqLdAAGZXF1YWxzc3EAfgAMjN0QH3QAEWNoYXJBcnJheVRvU3RyaW5nc3EAfgAMmZfbYXQACHRva2VuaXplc3EAfgAMOyuflXQAFGRlbGV0ZVRyYWlsaW5nU3BhY2Vzc3EAfgAM2Od8+HQAD2xpc3RUb0NoYXJBcnJheXNxAH4ADIo0Co10AAlub3RpZnlBbGxzcQB+AAzr08JTdAAMVG9rZW5NYWNoaW5lc3EAfgAMU+nNYHQABjxpbml0PnNxAH4ADLe9qjt0ABNsaW5rZWRMaXN0RnJvbUFycmF5c3EAfgAMM/69DHQACHRvU3RyaW5nc3EAfgAMlA/oUnQACGdldENsYXNzc3EAfgAMkO1JanQAE2RlbGV0ZUxlYWRpbmdTcGFjZXNzcQB+AAyQumzndAAQaXNWYWxpZFRva2VuQ2hhcnNxAH4ADOy5l7J0AAtjb3VudFRva2Vuc3NxAH4ADO2Yqs50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AD14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AI3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBVAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgA9TAAJaW5oZXJpdGVkcQB+AD1MAAdwYXJlbnRzcQB+AD14cQB+AFxzcQB+AFUBdXEAfgA4AAAAAHBzcQB+AFUBdXEAfgA4AAAAAHBzcQB+AFUBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBbdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBbc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB0dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB1cHBzcQB+ADpxAH4AR3EAfgBJcQB+AEtxAH4AI3EAfgBNfnEAfgBOdAAGTW9kdWxldXEAfgBSAAAAAHNxAH4AVQFxAH4AXXBzcQB+AFUBc3EAfgBfc3EAfgBVAXVxAH4AOAAAAABwc3EAfgBVAXVxAH4AOAAAAABwc3EAfgBVAXVxAH4AZgAAAABwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWSNCYMXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtMTdxc9W7jE7myHCFgE6U13J2ag=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBXH1nIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFWtZrx0AAZub3RpZnlzcQB+AAz8yopXdAAEd2FpdHNxAH4ADKdL0mN0AA0kYXNJbnN0YW5jZU9mc3EAfgAM6TvXQnQABmVxdWFsc3NxAH4ADDwx0Al0AA9iZWdpbnNXaXRoVm93ZWxzcQB+AAxs1FrldAAMYXNJbnN0YW5jZU9mc3EAfgAMxdJWKnQADHN5bmNocm9uaXplZHNxAH4ADLyctOF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMwG04nQACW5vdGlmeUFsbHNxAH4ADEdt2ah0AAxpc0luc3RhbmNlT2ZzcQB+AAxoETMVdAAIV29yZFV0aWxzcQB+AAzWyqNWdAACPT1zcQB+AAw+GeTOdAAFY2xvbmVzcQB+AAwOqe6BdAAGdm93ZWxzc3EAfgAMDdpKOHQACHRvU3RyaW5nc3EAfgAMjWQ36HQAAiE9c3EAfgAMq2CKFHQACGdldENsYXNzc3EAfgAMdyLgLHQAAm5lc3EAfgAMWnvEvXQAAmVxc3EAfgAM4ighr3QAAiMjc3EAfgAMI36L9HQACGZpbmFsaXplc3EAfgAMjRZLD3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBaAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGFzcQB+AFoBdXEAfgA+AAAAAHBzcQB+AFoBdXEAfgA+AAAAAHBzcQB+AFoBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB5dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6c3EAfgBtdAADQW55c3EAfgBxc3EAfgB0dXEAfgB3AAAAAnNxAH4AeXQABXNjYWxhcQB+AIBwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWSNCYMXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU7LzK3zKOiBxKNxg6i3SgiYkrDVE=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCrhZunAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHYCgF90AAZub3RpZnlzcQB+AAzISadrdAAEd2FpdHNxAH4ADFdGwld0AA0kYXNJbnN0YW5jZU9mc3EAfgAM9QhFtnQABmVxdWFsc3NxAH4ADPERnyZ0AAxhc0luc3RhbmNlT2ZzcQB+AAyzk5PtdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwAEAb2dAAMc3luY2hyb25pemVkc3EAfgAMb6Sa3HQADSRpc0luc3RhbmNlT2ZzcQB+AAwsnZE+dAAEbWFpbnNxAH4ADK7g6wZ0AAlub3RpZnlBbGxzcQB+AAyBgeetdAAMaXNJbnN0YW5jZU9mc3EAfgAMS6wApnQAAj09c3EAfgAMojBtynQABWNsb25lc3EAfgAMnS3xb3QACHRvU3RyaW5nc3EAfgAMnHjE/3QABGFyZ3NzcQB+AAzV2jLhdAACIT1zcQB+AAysMPOHdAAIZ2V0Q2xhc3NzcQB+AAyLBJkFdAACbmVzcQB+AAzPgEaUdAACZXFzcQB+AAz/zhofdAALZGVsYXllZEluaXRzcQB+AAwHSFgqdAACIyNzcQB+AAwm6SOIdAAIZmluYWxpemVzcQB+AAzCqlExdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AB91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AZXNxAH4AXgF1cQB+AEAAAAAAcHNxAH4AXgF1cQB+AEAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEZxAH4AT3VxAH4AUAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AG94cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCJc3EAfgBSAHQABG1haW51cQB+AFQAAAAAc3EAfgB8dAAEVW5pdHEAfgCCdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ab3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AV3QABVBsYWlucQB+ACtzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AH1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGRzcQB+AHx0AAVBcnJheXEAfgCCdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHx0AAZTdHJpbmdzcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIdAAEamF2YXNxAH4AiHQABGxhbmdxAH4AjXBzcQB+AF4BdXEAfgClAAAABHNxAH4AfHQAA0FwcHEAfgCCc3EAfgB8dAALRGVsYXllZEluaXRxAH4AgnNxAH4AfHQABk9iamVjdHEAfgCpc3EAfgB8dAADQW55cQB+AIJwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWSNCYMXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vaG9tZS9qYWNrL0Rlc2t0b3AvUHJvamVjdHMvQ2hhdEJvdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUuD+XTbXr/NZ28kyEpxfAMQvT30U=
+external apis:
+0 items
+source infos:
+13 items
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Brain.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatTypes.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/ChatbotDAO.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/DatabaseRPC.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Nouns.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Postman.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/QueryUtil.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Questions.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/Response.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/StringUtil.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/TokenMachine.java -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/WordUtil.scala -> 
+AAAAAAAAAAA=
+/home/jack/Desktop/Projects/ChatBot/src/main/scala-2.11/entry.scala -> 
+AAAAAAAAAAA=
+compilations:
+36 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVfoElx11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVfpo7l51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkFtLd91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkFyZ6F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkFygjR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkK6X3t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkK7adB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkK9YKZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkK+bh51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkLAJIN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkLk4fx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkLmy3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkMYif11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkOVJvh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkOYo0t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkhgcWd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjQmDF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjS2Rh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjT4wl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjVFOh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjWbpl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjW4o11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjX5011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVkjaGy11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuFAm91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuJrd91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuUX1R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuUg3V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuaNnp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpucp2d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuebBl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuhlLZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpujqq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpukuCV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpuleNJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVpvAAw11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2phY2svRGVza3RvcC9Qcm9qZWN0cy9DaGF0Qm90L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
