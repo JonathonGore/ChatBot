@@ -24,7 +24,7 @@ object Nouns {
   }
 
   // Looks for nouns after each item in the given list of pretenses.
-  private def getNounsAfter(pretenses: List[String], words: Array[String]): List[String] = {
+  def getNounsAfter(pretenses: List[String], words: Array[String]): List[String] = {
 
     var s: List[String] = Nil
 

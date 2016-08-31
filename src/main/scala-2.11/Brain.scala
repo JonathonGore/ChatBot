@@ -34,14 +34,42 @@ class Brain {
     }
   }
 
+  def extractInfo(words: Array[String], chatType: Int): Unit = {
+    val nounPretenses: List[String] = List("fav", "love", "my")
+    val noun = Nouns.getNounsAfter(nounPretenses, words).headOption
+
+    val infoPretenses: List[String] = List("is")
+    val info =  Nouns.getNounsAfter(infoPretenses, words).headOption
+
+    (noun, info) match {
+      case (Some(n), Some(i)) => {
+        db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
+        return "That sounds pretty cool!"
+      }
+      case (a, b) => {
+        return "I'm sorry I don't understand."
+      }
+    }
+  }
+
+  def getName(words: Array[String], chatType: Int): String = {
+    val name = Nouns.getPersonName(words); var aan = "a"
+    if(WordUtil.beginsWithVowel(name)) aan = "an"
+    if(db.hasMetByName(name)) return s"I have met $aan $name before."
+    else {
+      // Insert name into people.
+      db.insertMyselfPerson(name)
+      return s"I haven't met $aan $name before."
+    }
+  }
 
   def buildMessage(words: Array[String], chatType: Int): String = {
     chatType match {
       case ChatTypes.GET_NAME => {
-        val name = Nouns.getPersonName(words); var aan = "a"
-        if(WordUtil.beginsWithVowel(name)) aan = "an"
-        if(db.hasMetByName(name)) return s"I have met $aan $name before."
-        return s"I haven't met $aan $name before."
+        getName(words, chatType)
+      }
+      case ChatTypes.SET_INFO => {
+        extractInfo(words, chatType)
       }
     }
   }

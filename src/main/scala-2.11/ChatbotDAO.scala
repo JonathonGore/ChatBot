@@ -28,6 +28,18 @@ object ChatbotDAO {
     }
   }
 
+  def insert(q: String): Unit = {
+    try {
+      val statement = connection.createStatement()
+      statement.execute(q)
+    } catch {
+      case e:Throwable => {
+        println(s"Unable to complete query: $q.")
+        e.printStackTrace
+      }
+    }
+  }
+
   // Queries data base with given query q.
   def query(q: String): ResultSet = {
     try {

@@ -6,6 +6,10 @@ import java.util.Scanner
 
 class Postman {
 
+  /**
+    * TODO: Create Database tables on start up.
+    */
+
   private val brain = new Brain()
   private val s = new Scanner(System.in)
 
@@ -28,6 +32,9 @@ class Postman {
     chatType match {
       case ChatTypes.GET_NAME => {
         sendMessage(new Response("What is your name?"))
+      }
+      case ChatTypes.SET_INFO => {
+
       }
       case _ => {
         sendMessage(new Response("Chat Type is not yet supported."))
