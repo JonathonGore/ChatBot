@@ -34,20 +34,20 @@ class Brain {
     }
   }
 
-  def extractInfo(words: Array[String], chatType: Int): Unit = {
+  def extractInfo(words: Array[String], chatType: Int): String = {
     val nounPretenses: List[String] = List("fav", "love", "my")
     val noun = Nouns.getNounsAfter(nounPretenses, words).headOption
 
     val infoPretenses: List[String] = List("is")
     val info =  Nouns.getNounsAfter(infoPretenses, words).headOption
 
-    (noun, info) match {
+    return (noun, info) match {
       case (Some(n), Some(i)) => {
-        db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
-        return "That sounds pretty cool!"
+       // db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
+        "That sounds pretty cool!"
       }
       case (a, b) => {
-        return "I'm sorry I don't understand."
+        "I'm sorry I don't understand."
       }
     }
   }
@@ -64,7 +64,7 @@ class Brain {
   }
 
   def buildMessage(words: Array[String], chatType: Int): String = {
-    chatType match {
+    return chatType match {
       case ChatTypes.GET_NAME => {
         getName(words, chatType)
       }

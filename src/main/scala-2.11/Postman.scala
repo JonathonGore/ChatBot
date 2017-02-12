@@ -6,10 +6,6 @@ import java.util.Scanner
 
 class Postman {
 
-  /**
-    * TODO: Create Database tables on start up.
-    */
-
   private val brain = new Brain()
   private val s = new Scanner(System.in)
 
