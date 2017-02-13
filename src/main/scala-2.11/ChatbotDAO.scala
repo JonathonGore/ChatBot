@@ -35,8 +35,9 @@ object ChatbotDAO {
    * do not exist.
    */
   def createSchema(): Unit = {
-      insert(Queries.createPeopleTable)
-      insert(Queries.createMyselfTable)
+    insert(Queries.createPeopleTable)
+    insert(Queries.createMyselfTable)
+    insert(Queries.createConversationsTable)
   }
 
   /* insert(String q) attempts to execute statement q against the database
