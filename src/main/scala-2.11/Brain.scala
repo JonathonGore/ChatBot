@@ -43,7 +43,7 @@ class Brain {
 
     return (noun, info) match {
       case (Some(n), Some(i)) => {
-       // db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
+       //db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
         "That sounds pretty cool!"
       }
       case (a, b) => {
@@ -69,6 +69,9 @@ class Brain {
         getName(words, chatType)
       }
       case ChatTypes.SET_INFO => {
+        extractInfo(words, chatType)
+      }
+      case ChatTypes.GENERIC => {
         extractInfo(words, chatType)
       }
     }
@@ -99,6 +102,10 @@ class Brain {
       case Questions.UserResponse(Some(msg), None) => {
         val message = buildMessage(msg, chatType)
         buildResponse(message, "")
+      }
+      case Questions.UserResponse(None, Some(ans)) => {
+        val message = buildAnswer(ans, chatType)
+        buildResponse(message.getMessage, "")
       }
       // If for some reason we get a faulty response.
       case _ => {

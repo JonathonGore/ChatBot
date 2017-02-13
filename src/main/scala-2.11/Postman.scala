@@ -32,6 +32,9 @@ class Postman {
       case ChatTypes.SET_INFO => {
 
       }
+      case ChatTypes.GENERIC => {
+
+      }
       case _ => {
         sendMessage(new Response("Chat Type is not yet supported."))
       }
@@ -46,6 +49,6 @@ class Postman {
     sendMessage(resp)
     // Call chat with a new cht type here.....also add a field in response object
     // that indicates whether user asked a question
-    chat(resp.nextChatType)
+    chat(ChatTypes.GENERIC)
   }
 }
