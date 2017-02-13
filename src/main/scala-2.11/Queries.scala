@@ -16,4 +16,10 @@ object Queries {
                             "`birthdate` DATE NULL," +
                             "PRIMARY KEY (`id`));"
 
+    val createConversationsTable =  "CREATE TABLE `chatbot`.`conversations` (" +
+                                    "`uuid` CHAR(36) NOT NULL," +
+                                    "`type` INT NULL," +
+                                    "PRIMARY KEY (`uuid`)," +
+                                    "UNIQUE INDEX `uuid_UNIQUE` (`uuid` ASC));"
+
 }
