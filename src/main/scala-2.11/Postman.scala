@@ -45,10 +45,6 @@ object Postman {
     newMessage(message, chatType)
   }
 
-  def userMessage(message: String, chatType: Int): String = {
-    newMessage(message, chatType)
-  }
-
   /* newMessage(String message, Int chatType) collect response from brain
    * and then send it as a new message then chat again with appropriate type
    */

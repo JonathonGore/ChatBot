@@ -14,7 +14,13 @@ class ChatService(context: ServerContext) extends HttpService(context) {
 
       Callback.successful({
         //Postman.userMessage("Hi there")
-        request.ok("Hello World!", serverHeaders)
+        println(request.body.toString())
+        val msgParams = StringUtil.parseMessageParams(request.body.toString())
+        val chatType = DatabaseRPC.getChatTypeById(msgParams.id)
+        // Get message and eventually get next chattype
+        val msg = Postman.newMessage(msgParams.message, chatType)
+        // TODO: Update chat type once we get it
+        request.ok(msg, serverHeaders)
       })
     }
   }

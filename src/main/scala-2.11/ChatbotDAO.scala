@@ -13,7 +13,6 @@ object ChatbotDAO {
   val password = Environment.DBPassword
 
   var connection:Connection = null
-  createConnection()
 
   /* createConnection() Attempts to establish a connection
    * the database, will want to fail gracefully eventually..

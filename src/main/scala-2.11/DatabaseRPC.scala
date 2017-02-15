@@ -20,6 +20,21 @@ object DatabaseRPC {
     }
   }
 
+  def insertConversation(id: String) {
+    db.insert(s"INSERT INTO conversations (uuid, type) VALUES ('$id', 0);")
+  }
+
+  def getChatTypeById(id: String): Int = {
+    val r = db.query(s"SELECT * FROM conversations WHERE uuid='$id' LIMIT 1;")
+    val firstChatType = 0
+    if(r.next) {
+      r.getInt("type")
+    } else {
+      insertConversation(id)
+      firstChatType
+    }
+  }
+
   def hasMetByName(name: String): Boolean = {
     val r = db.query(s"SELECT * FROM people WHERE name='$name' LIMIT 1;")
     r.next()

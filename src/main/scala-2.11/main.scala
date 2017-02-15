@@ -9,6 +9,7 @@ import colossus.core.Server
   */
 object main extends App {
 
+    ChatbotDAO.createConnection()
     implicit val actorSystem = ActorSystem()
     implicit val io = IOSystem()
 

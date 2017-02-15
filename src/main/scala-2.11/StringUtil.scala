@@ -24,6 +24,18 @@ object StringUtil {
     false
   }
 
+  case class MessageParams(message: String, id: String)
+
+  /** Splits the params at & and puts values in to the case class
+    *
+    * @param body params of a POST request
+    * @return MessageParams case class
+    */
+  def parseMessageParams(body: String): MessageParams = {
+    val params = body.split("&")
+    return MessageParams(params(0).split("=")(1), params(1).split("=")(1))
+  }
+
 
   /**
     * Returns true if all strings in words are contained in the question.
