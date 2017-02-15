@@ -16,7 +16,9 @@ class Brain {
     */
   def buildResponse(message: String, answer: String): Response = {
     val msg = message + " " + answer
-    new Response(msg)
+    val r = new Response(msg)
+    r.nextChatType = ChatTypes.GENERIC
+    r
   }
 
   def buildAnswer(words: Array[String], chatType: Int): Response = {

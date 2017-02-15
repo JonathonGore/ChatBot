@@ -35,6 +35,10 @@ object DatabaseRPC {
     }
   }
 
+  def updateChatTypeById(id: String, chatType: Int): Unit = {
+    db.insert(s"UPDATE `chatbot`.`conversations` SET `type`='1' WHERE `uuid`='$id';")
+  }
+
   def hasMetByName(name: String): Boolean = {
     val r = db.query(s"SELECT * FROM people WHERE name='$name' LIMIT 1;")
     r.next()
