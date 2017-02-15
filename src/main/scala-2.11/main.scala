@@ -13,7 +13,6 @@ object main extends App {
     implicit val io = IOSystem()
 
     Server.start("chatbot", 9000){ worker => new HttpHandler(worker) }
-
     //private val s = new Scanner(System.in)
 
 }
