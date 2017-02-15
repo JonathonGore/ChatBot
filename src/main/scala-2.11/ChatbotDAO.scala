@@ -48,8 +48,8 @@ object ChatbotDAO {
       statement.execute(q)
     } catch {
       case e:Throwable => {
-        println(s"Unable to complete query: $q.")
-        e.printStackTrace
+        //println(s"Unable to complete query: $q.")
+        //e.printStackTrace
       }
     }
   }

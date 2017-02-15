@@ -14,6 +14,12 @@ object DatabaseRPC {
    // new Timestamp()
   //}
 
+  def insertInfo(key: String, value: String): Unit = {
+    try {
+      db.insert(s"ALTER TABLE `chatbot`.`myself` ADD COLUMN `$key` VARCHAR(45) NULL DEFAULT '$value' AFTER `birthdate`;")
+    }
+  }
+
   def hasMetByName(name: String): Boolean = {
     val r = db.query(s"SELECT * FROM people WHERE name='$name' LIMIT 1;")
     r.next()

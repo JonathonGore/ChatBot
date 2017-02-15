@@ -43,7 +43,7 @@ class Brain {
 
     return (noun, info) match {
       case (Some(n), Some(i)) => {
-       //db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
+       db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
         "That sounds pretty cool!"
       }
       case (a, b) => {
