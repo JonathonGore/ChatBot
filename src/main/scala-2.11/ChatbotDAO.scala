@@ -38,6 +38,7 @@ object ChatbotDAO {
     insert(Queries.createPeopleTable)
     insert(Queries.createMyselfTable)
     insert(Queries.createConversationsTable)
+    insert(Queries.initializeMyself)
   }
 
   /* insert(String q) attempts to execute statement q against the database

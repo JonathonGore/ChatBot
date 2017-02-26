@@ -8,7 +8,7 @@ object StringUtil {
     * @return Filtered string.
     */
   def filterPunctuation(s: String): String = {
-    val punctuation = "!@#$%^&*(),.?':;\""
+    val punctuation = "!@#$%^&*(),.?':;\"-_=+\\]['"
     s.filter(!punctuation.contains(_))
   }
   /**
@@ -19,7 +19,7 @@ object StringUtil {
     */
   def containsSubstring(words: Array[String], subString: String): Boolean = {
     for(w <- words){
-      if(w.contains(subString)) return true
+      if(w.toLowerCase.contains(subString.toLowerCase)) return true
     }
     false
   }
@@ -33,7 +33,7 @@ object StringUtil {
     */
   def parseMessageParams(body: String): MessageParams = {
     val params = body.split("&")
-    return MessageParams(params(0).split("=")(1), params(1).split("=")(1))
+    MessageParams(params(0).split("=")(1), params(1).split("=")(1))
   }
 
 
@@ -45,8 +45,7 @@ object StringUtil {
     */
   def checkIfContained(question: Array[String], words: List[String]): Boolean = {
     var count = 0
-
-    for(w <- words){
+    for(w <- words.distinct){
       if(StringUtil.containsSubstring(question, w)) count += 1
     }
     count >= words.length

@@ -22,4 +22,6 @@ object Queries {
                                     "PRIMARY KEY (`uuid`)," +
                                     "UNIQUE INDEX `uuid_UNIQUE` (`uuid` ASC));"
 
+    val initializeMyself = "INSERT INTO chatbot.myself (id, name, birthdate) VALUES (1, `Jack`, `1997-10-28`);"
+
 }

@@ -21,6 +21,7 @@ object Questions {
   val afterWhat = List("fav", "your")
 
   /**
+    * TODO: Change this function to return list of questions instend of a single question and a single response
     * Splits the user response of the question asked by chatbot into the answer of the question asked by chatbot
     * and potentially if the user asked a new question.
     * @param words The response
@@ -33,32 +34,32 @@ object Questions {
           if(w.contains(p)) {
             if(i == 0) {
               // If the user only replied with an question.
-              return new UserResponse(None, Some(words))
+              return UserResponse(None, Some(words))
             }
             else {
               // If the user answered a question, and asked a new question.
               val s = words.splitAt(i)
-              return new UserResponse(Some(s._1), Some(s._2))
+              return UserResponse(Some(s._1), Some(s._2))
             }
           }
         }
         i += 1
       }
-      new UserResponse(Some(words), None)
+      UserResponse(Some(words), None)
   }
 
   case class myselfInfo(noun: Option[String], answer: Option[String])
 
   /**
     * This funcion is called when the user asks a question about the ChatBot.
-    * This function will look for the first noun occurring after the word your, and then
+    * This function will look for the first noun occurring after the keyword, and then
     * queries the database looking for a column matching the extracted noun.
     * @param question -> The question that has been asked. MUST be filtered.
     * @return Returns a answer to the question.
     */
   def myselfQuestion(question: Array[String], keyword: String): myselfInfo = {
 
-    // Gets the noun we are checking about ourselves
+    // Gets the noun after the keyword
     val i = question.indexWhere(_.contains(keyword))
 
     // TODO: Turn this function into a more general getWordAt function

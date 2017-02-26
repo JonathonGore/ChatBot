@@ -15,9 +15,7 @@ object DatabaseRPC {
   //}
 
   def insertInfo(key: String, value: String): Unit = {
-    try {
-      db.insert(s"ALTER TABLE `chatbot`.`myself` ADD COLUMN `$key` VARCHAR(45) NULL DEFAULT '$value' AFTER `birthdate`;")
-    }
+    db.insert(s"ALTER TABLE `chatbot`.`myself` ADD COLUMN `$key` VARCHAR(45) NULL DEFAULT '$value';")
   }
 
   def insertConversation(id: String) {

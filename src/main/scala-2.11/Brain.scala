@@ -21,29 +21,39 @@ class Brain {
     r
   }
 
-  def buildAnswer(words: Array[String], chatType: Int): Response = {
-    Questions.getQuestionAnswer(words) match {
+  def buildAnswer(question: Array[String], chatType: Int): Response = {
+    Questions.getQuestionAnswer(question) match {
       case Some(rsp) => {
         val r = new Response(rsp.response)
         r.nextChatType = rsp.nextChatType
         r
       }
       case None => {
-        val r =new Response("I am unable to understand your question.")
+        val r = new Response("I am unable to understand your question.")
         r.nextChatType = ChatTypes.GENERIC
         r
       }
     }
   }
 
+  def getInfo(words: Array[String]): Option[String] = {
+    val infoPretenses = List("is")
+    Nouns.getNounsAfter(infoPretenses, words).headOption
+  }
+
+  def getNoun(words: Array[String]): Option[String] = {
+    val nounPretenses = List("fav", "love", "my")
+    Nouns.getNounsAfter(nounPretenses, words).headOption
+  }
+
+  /* This function is meant to extract info from the user
+   *
+   */
   def extractInfo(words: Array[String], chatType: Int): String = {
-    val nounPretenses: List[String] = List("fav", "love", "my")
-    val noun = Nouns.getNounsAfter(nounPretenses, words).headOption
+    val noun = getNoun(words)
+    val info = getInfo(words)
 
-    val infoPretenses: List[String] = List("is")
-    val info =  Nouns.getNounsAfter(infoPretenses, words).headOption
-
-    return (noun, info) match {
+    (noun, info) match {
       case (Some(n), Some(i)) => {
        db.insertInfo(QueryUtil.prepareForQuery(n), QueryUtil.prepareForQuery(i))
         "That sounds pretty cool!"
@@ -105,6 +115,7 @@ class Brain {
         val message = buildMessage(msg, chatType)
         buildResponse(message, "")
       }
+      // Contains just a new question
       case Questions.UserResponse(None, Some(ans)) => {
         val message = buildAnswer(ans, chatType)
         buildResponse(message.getMessage, "")
