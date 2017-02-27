@@ -7,4 +7,5 @@ object ChatTypes {
   val QUESTION_ABOUT_ME = 2
   val GET_FAVOURITE = 3
   val SET_INFO = 4
+  val GET_INFO = 5
 }

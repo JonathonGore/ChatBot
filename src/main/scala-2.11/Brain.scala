@@ -41,8 +41,11 @@ class Brain {
     Nouns.getNounsAfter(infoPretenses, words).headOption
   }
 
+  /* TODO: Add these collected nouns to the database to be used
+   *
+   */
   def getNoun(words: Array[String]): Option[String] = {
-    val nounPretenses = List("fav", "love", "my")
+    val nounPretenses = List("fav", "best", "love", "my")
     Nouns.getNounsAfter(nounPretenses, words).headOption
   }
 

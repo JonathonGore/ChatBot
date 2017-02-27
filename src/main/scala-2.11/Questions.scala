@@ -69,8 +69,8 @@ object Questions {
     // Prepares the noun for querying to make it possible to match a column in th database.
     val preppedNoun = QueryUtil.prepareForQuery(noun)
     DatabaseRPC.myselfQuery(preppedNoun) match {
-      case Success(ans) => return myselfInfo(Some(noun), Some(ans))
-      case Failure(err) => return myselfInfo(Some(noun), None)
+      case Success(ans) => myselfInfo(Some(noun), Some(ans))
+      case Failure(err) => myselfInfo(Some(noun), None)
     }
   }
 
@@ -91,27 +91,57 @@ object Questions {
             return Some(chatBotResponse(s"My favourite ${noun} is ${ans}.", ChatTypes.GENERIC))
           }
           case myselfInfo(Some(noun), None) => {
-            return Some(chatBotResponse(s"I don't have a favourite $noun yet. Why don't you tell me yours?", ChatTypes.GET_FAVOURITE))
+            return Some(chatBotResponse(s"I don't have a favourite $noun yet. ${Replies.inquireInfo()}?", ChatTypes.GET_FAVOURITE))
           }
         }
 
       }
       else if(StringUtil.checkIfContained(question, List("your"))) {
-        myselfQuestion(question, "your") match {
-          case myselfInfo(Some(noun), Some(ans)) => {
-            return Some(chatBotResponse(s"My ${noun} is ${ans}", ChatTypes.GENERIC))
-          }
-          case myselfInfo(Some(noun), None) => {
-            return Some(chatBotResponse(s"I don't have a $noun yet. Perhaps you could make one up for me?", ChatTypes.SET_INFO))
-          }
-        }
+        return getGenericInfo(question)
       }
       None
+  }
+
+  def getGenericInfo(question: Array[String]): Option[chatBotResponse] = {
+    myselfQuestion(question, "your") match {
+      case myselfInfo(Some(noun), Some(ans)) => {
+        Some(chatBotResponse(s"My ${noun} is ${ans}, ${Replies.inquireInfo()}?", ChatTypes.GET_INFO))
+      }
+      case myselfInfo(Some(noun), None) => {
+        Some(chatBotResponse(s"${Replies.unsureResponse()}, when is your ${noun}?", ChatTypes.GET_INFO))
+      }
+    }
+  }
+
+  def whenQuestion(question: Array[String]): Option[chatBotResponse] = {
+    if(StringUtil.checkIfContained(question, List("your"))) {
+      return getGenericInfo(question)
+    }
+    else if(StringUtil.checkIfContained(question, List("is")) ||
+            StringUtil.checkIfContained(question, List("was"))) {
+      // TODO: Add code to retrieve and store dates
+      // Consider using some sort of API
+    }
+    None
+  }
+
+  def howQuestion(question: Array[String]): Option[chatBotResponse] = {
+    if(StringUtil.checkIfContained(question, List("your"))) {
+      return getGenericInfo(question)
+    }
+    else if(StringUtil.checkIfContained(question, List("is")) ||
+      StringUtil.checkIfContained(question, List("was"))) {
+      // TODO: Add code to retrieve and store dates
+      // Consider using some sort of API
+    }
+    None
   }
 
   // Routes the question type to the correct function.
   def route(qWord: String, question: Array[String]): Option[chatBotResponse] = {
     if (qWord.contains("what"))  return whatQuestion(question)
+    else if (qWord.contains("when"))  return whenQuestion(question)
+    else if (qWord.contains("how"))  return howQuestion(question)
     None
   }
 
