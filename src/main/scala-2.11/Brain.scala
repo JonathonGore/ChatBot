@@ -100,9 +100,11 @@ class Brain {
     */
   def createResponse(message: String, chatType: Int): Response = {
 
+    // TODO: Change this to a new singleton called Washing Machine and replace
+    // TODO: words like 'ur' to 'your' and 'u' to 'you'
+
     // Prepare raw string to be analyzed
-    val filteredMsg = StringUtil.filterPunctuation(message)
-    val tokens = TokenMachine.tokenize(filteredMsg)
+    val tokens = WashingMachine.Wash(message)
 
     Questions.splitUserResponse(tokens) match {
       // User response contains an answer and a new question.
