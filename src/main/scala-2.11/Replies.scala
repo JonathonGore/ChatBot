@@ -4,6 +4,17 @@
 object Replies {
   val r = scala.util.Random
 
+  def getRandomFeeling(): String = {
+    val index = r.nextInt(2)
+    val replies = Array(
+      "Quite well thank you",
+      "I have been better",
+      "Pretty good",
+      "I am just fine"
+    )
+    replies(index)
+  }
+
   def unsureResponse(): String = {
     // This function has a floor of 0
     val index = r.nextInt(2)

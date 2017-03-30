@@ -13,7 +13,7 @@ object Questions {
    * *** DONT WORRY ABOUT 'WHAT'S', 'HOW'S', ... etc as we check these as substrings so it will be taken care of.
    * *** TODO: Move this to a database and allow it to be updated. ***
    */
-  val questionPretenses = List("what", "how", "who", "when", "why", "where")
+  val questionPretenses = List("what", "how", "who", "when", "why", "where", "do")
   /*
    * List of words commonly associated with 'What' questions.
    * *** TODO: Move this to a database and allow it to be updated. ***
@@ -74,6 +74,21 @@ object Questions {
     }
   }
 
+  def getGenericInfo(question: Array[String], kind: String): Option[chatBotResponse] = {
+    myselfQuestion(question, "your") match {
+      case myselfInfo(Some(noun), Some(ans)) => {
+        Some(chatBotResponse(s"My ${noun} is ${ans}, ${Replies.inquireInfo()}?", ChatTypes.GET_INFO))
+      }
+      case myselfInfo(Some(noun), None) => {
+        Some(chatBotResponse(s"${Replies.unsureResponse()}, ${kind} is your ${noun}?", ChatTypes.GET_INFO))
+      }
+    }
+  }
+
+  def getGenericFeeling(): chatBotResponse = {
+    chatBotResponse(Replies.getRandomFeeling + ".", ChatTypes.GENERIC)
+  }
+
   /**
     * This function is called if the user asks a question with of the 'What' type, then pushes it to the proper function.
     * @param question -> The question user asked.
@@ -97,37 +112,39 @@ object Questions {
 
       }
       else if(StringUtil.checkIfContained(question, List("your"))) {
-        return getGenericInfo(question)
+        return getGenericInfo(question, "what")
       }
       None
   }
 
-  def getGenericInfo(question: Array[String]): Option[chatBotResponse] = {
-    myselfQuestion(question, "your") match {
-      case myselfInfo(Some(noun), Some(ans)) => {
-        Some(chatBotResponse(s"My ${noun} is ${ans}, ${Replies.inquireInfo()}?", ChatTypes.GET_INFO))
+  def howAnalyzer(question: Array[String]): Option[chatBotResponse] = {
+    val howPretenses = List("so", "that", "this", "such")
+    Nouns.getNounsAfter(howPretenses, question).headOption match {
+      case Some(x) => return getGenericInfo(question, "how")
+      case None => {
+        return Some(getGenericFeeling())
       }
-      case myselfInfo(Some(noun), None) => {
-        Some(chatBotResponse(s"${Replies.unsureResponse()}, when is your ${noun}?", ChatTypes.GET_INFO))
-      }
-    }
-  }
-
-  def whenQuestion(question: Array[String]): Option[chatBotResponse] = {
-    if(StringUtil.checkIfContained(question, List("your"))) {
-      return getGenericInfo(question)
-    }
-    else if(StringUtil.checkIfContained(question, List("is")) ||
-            StringUtil.checkIfContained(question, List("was"))) {
-      // TODO: Add code to retrieve and store dates
-      // Consider using some sort of API
     }
     None
   }
 
+
   def howQuestion(question: Array[String]): Option[chatBotResponse] = {
+    if(StringUtil.checkIfContained(question, List("are", "you"))) {
+        return howAnalyzer(question)
+    }
+    else if(StringUtil.checkIfContained(question, List("is", "your"))) {
+        return getGenericInfo(question, "how")
+    }
+    else if(StringUtil.checkIfContained(question, List("are", "you"))) {
+      return getGenericInfo(question, "how")
+    }
+    None
+  }
+
+  def whenQuestion(question: Array[String]): Option[chatBotResponse] = {
     if(StringUtil.checkIfContained(question, List("your"))) {
-      return getGenericInfo(question)
+      return getGenericInfo(question, "when")
     }
     else if(StringUtil.checkIfContained(question, List("is")) ||
       StringUtil.checkIfContained(question, List("was"))) {
@@ -137,11 +154,19 @@ object Questions {
     None
   }
 
+  def doQuestion(question: Array[String]): Option[chatBotResponse] = {
+    if(StringUtil.checkIfContained(question, List("your"))) {
+      return getGenericInfo(question, "when")
+    }
+    None
+  }
+
   // Routes the question type to the correct function.
   def route(qWord: String, question: Array[String]): Option[chatBotResponse] = {
     if (qWord.contains("what"))  return whatQuestion(question)
     else if (qWord.contains("when"))  return whenQuestion(question)
     else if (qWord.contains("how"))  return howQuestion(question)
+    else if(qWord.contains("do")) return doQuestion(question)
     None
   }
 
